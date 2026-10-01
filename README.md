@@ -6,7 +6,7 @@
 </body>
 <body>
 <a class="Animation" href="https://github.com" target="_blank">
-        View the Source Code on the Other Branch
+        Animation Reels
 </a>
 </body>
 </html>
