@@ -5,6 +5,7 @@
     <p>Hosted directly from my GitHub branch.</p>
 </body>
 <body>
-<[This is a test](https://github.com/Lag1020/github-portfolio/tree/Animations)>
+<a class="Animation" href="https://github.com/Lag1020/github-portfolio/tree/Animations" target="_blank">
+</a>
 </body>
 </html>
