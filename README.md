@@ -5,7 +5,7 @@
     <p>Hosted directly from my GitHub branch.</p>
 </body>
 <body>
-<a class="Animation" href="https://github.com" target="_blank">
+<a class="Animation" href="https://github.com/Lag1020/github-portfolio/tree/Animations" target="_blank">
         Animation Reels
 </a>
 </body>
